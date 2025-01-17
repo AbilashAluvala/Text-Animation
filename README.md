@@ -1,1 +1,1 @@
-txt-ani.netlify.app  live link
+https://txt-ani.netlify.app/ link
